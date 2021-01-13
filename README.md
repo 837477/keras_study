@@ -1,5 +1,5 @@
-# Keras study
-> Keras 입문을 위한 실습 코드들입니다.
+# Deep learning study
+> 딥러닝으 공부할 때 사용했던 실스 코드들입니다.
 
 ## Indexes
 
