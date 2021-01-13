@@ -1,8 +1,9 @@
 # Deep learning study
 > 머신러닝 및 딥러닝을 공부할 때 사용했던 실습 코드들입니다.
 
-## Indexes
+<br>
 
+## Indexes
 1. 생활코딩을 통한 (딥러닝 맛보기 "입문")
     - pandas 익히기 (practice1_pandas.py)
     - 레몬에이드 판매 예측 모델 (practice2_lemonade.py)
@@ -20,6 +21,8 @@
         - 전체 샘플을 통하여 가중치 찾기
         - 에포크
         - 학습된 모델로 값 예측하기
+    - 손실 함수와 경사 하강법의 관계
+    - 선형 회귀를 위한 뉴런 만들기 (make_neuron.py)
 
 
 ## Meta
