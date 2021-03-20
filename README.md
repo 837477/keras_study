@@ -1,5 +1,5 @@
-# Deep learning study
-> 머신러닝 및 딥러닝을 공부할 때 사용했던 실습 코드들입니다.
+# Machine learning study
+> 딥러닝 학습에 앞서, 머신러닝 기초를 공부했을 때 사용한 실습 코드
 
 <br>
 
